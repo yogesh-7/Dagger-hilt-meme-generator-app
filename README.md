@@ -40,3 +40,8 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
   - [Hilt-ViewModel](https://developer.android.com/training/dependency-injection/hilt-jetpack) - DI for injecting `ViewModel`.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
+## Contact
+If you need any help, you can connect with me.
+
+Visit: [Yogesh_bansal](https://www.helloyogesh.com)
+
