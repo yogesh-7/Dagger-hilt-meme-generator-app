@@ -43,5 +43,5 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 ## Contact
 If you need any help, you can connect with me.
 
-Visit: [Yogesh_bansal](https://www.helloyogesh.com)
+Visit: [Yogesh bansal](https://www.helloyogesh.com)
 
