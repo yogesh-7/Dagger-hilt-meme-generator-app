@@ -1,4 +1,4 @@
-package com.example.dagger_hiltdemo.view
+package com.example.dagger_hiltdemo.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -11,7 +11,7 @@ import com.example.dagger_hiltdemo.R
 import com.example.dagger_hiltdemo.databinding.ActivityMainBinding
 import com.example.dagger_hiltdemo.util.ApiState
 import com.example.dagger_hiltdemo.util.Toaster
-import com.example.dagger_hiltdemo.viewmodel.MainViewModel
+import com.example.dagger_hiltdemo.ui.viewmodel.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch

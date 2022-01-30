@@ -1,6 +1,6 @@
 package com.example.dagger_hiltdemo.util
 
-import com.example.dagger_hiltdemo.data.ApiResponse
+import com.example.dagger_hiltdemo.data.model.ApiResponse
 
 sealed class ApiState {
 

@@ -1,7 +1,7 @@
-package com.example.dagger_hiltdemo.repository
+package com.example.dagger_hiltdemo.data.repository
 
 import com.example.dagger_hiltdemo.api.MemeServiceImplementation
-import com.example.dagger_hiltdemo.data.ApiResponse
+import com.example.dagger_hiltdemo.data.model.ApiResponse
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

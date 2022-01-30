@@ -1,8 +1,8 @@
-package com.example.dagger_hiltdemo.viewmodel
+package com.example.dagger_hiltdemo.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.dagger_hiltdemo.repository.MemeMainRepository
+import com.example.dagger_hiltdemo.data.repository.MemeMainRepository
 import com.example.dagger_hiltdemo.util.ApiState
 import com.example.dagger_hiltdemo.util.NetworkHelper
 import dagger.hilt.android.lifecycle.HiltViewModel

@@ -1,4 +1,4 @@
-package com.example.dagger_hiltdemo.data
+package com.example.dagger_hiltdemo.data.model
 
 data class ApiResponse(
     val author: String,
