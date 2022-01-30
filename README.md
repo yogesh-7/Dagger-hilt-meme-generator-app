@@ -11,7 +11,7 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 # Package Structure
     
-    dev.hellosagar.assigmenthub    # Root Package
+    com.example.dagger_hiltdemo    # Root Package
     .
     ├── data                # For data handling.
     │   └── repository      # Single source of data.   
