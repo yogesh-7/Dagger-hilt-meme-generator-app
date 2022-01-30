@@ -4,6 +4,27 @@ Dagger -hilt +retrofit +sealed classes+ mvvm + stateflow + Network helper
 Meme generator application using Retrofit, glide, dagger- hilt, stateflow, sealed classes using public api https://meme-api.herokuapp.com/gimme
 
 
+## Architecture
+This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+
+![architecture](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+
+# Package Structure
+    
+    dev.hellosagar.assigmenthub    # Root Package
+    .
+    ├── data                # For data handling.
+    │   └── repository      # Single source of data.   
+    |
+    ├── di                  # Dependency Injection             
+    |
+    ├── ui                  # Activity/View layer
+    │   ├── viewmodel       # ViewModels
+    │   └── view            # Activity
+    |
+    └── utils               # Utility Classes / Kotlin extensions
+
+
 ## 📸 Screenshots
 
 
