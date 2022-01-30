@@ -21,11 +21,6 @@ class MainViewModel @Inject constructor(
 ) :
     ViewModel() {
 
-
-
-
-
-
     val memeStateFlow: MutableStateFlow<ApiState> = MutableStateFlow(ApiState.Empty)
 
     init {

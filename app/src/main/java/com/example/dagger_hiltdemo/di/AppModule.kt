@@ -1,6 +1,6 @@
 package com.example.dagger_hiltdemo.di
 
-import com.example.dagger_hiltdemo.api.MemeService
+import com.example.dagger_hiltdemo.data.source.MemeService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
