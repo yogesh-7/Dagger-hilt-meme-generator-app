@@ -1,7 +1,7 @@
 # Dagger-hilt-meme-generator-app
-Dagger -hilt +retrofit +sealed classes+ mvvm + stateflow + Network helper
+Dagger -hilt +retrofit +sealed classes+ mvvm + stateflow + Network helper 
 
-Meme generator application using Retrofit, glide, dagger- hilt, stateflow, sealed classes using public api https://meme-api.herokuapp.com/gimme
+Meme generator application using Retrofit, glide, dagger- hilt, stateflow, sealed classes, view Binding using public api https://meme-api.herokuapp.com/gimme
 
 
 ## Architecture
